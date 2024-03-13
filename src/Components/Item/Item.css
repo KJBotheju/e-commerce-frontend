@@ -87,7 +87,7 @@
     }
 
     .item img{
-        width: 70px;
+        width: 120px;
     }
 
     .item-price-old{
@@ -95,5 +95,8 @@
     }
     .item-price-new{
         font-size: 15px;
+    }
+    .item p{
+        font-size: 13px;
     }
 }

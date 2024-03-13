@@ -29,7 +29,7 @@
 
 @media(max-width:1280px){
     .popular{
-        height: 70vh;
+        height: 50vh;
     }
 
     .popular h1{
@@ -80,5 +80,6 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 80px;
+        margin: 0px;
     }
 }
