@@ -34,6 +34,11 @@
     cursor: pointer;
 }
 
+.nav-menu li a:hover {
+    font-weight: bold; /* Change text color to red on hover */
+}
+
+
 .nav-menu hr{
     border: none;
     width: 80%;
@@ -59,6 +64,11 @@
     font-weight: 500;
     background: white;
     cursor: pointer;
+}
+
+.nav-login-cart button:hover{
+    background: #808080;
+
 }
 
 .nav-login-cart button:active{
